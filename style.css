@@ -1,4 +1,4 @@
-:root /**
+/**
  * Dark Mode Styles
  * This section defines the color variables for both light and dark modes,
  * which are applied to various elements based on the presence of the
@@ -11,6 +11,7 @@
     --border-color: #1a1a1a;
     --link-color: #0077cc;
     --link-highlight-color: #005599;
+    --section-header-border-color: #1a1a1a; /* Added this line */
 }
 
 .dark-mode {
@@ -20,6 +21,7 @@
     --border-color: #F5F5DC;
     --link-color: #00bfff;
     --link-highlight-color: #00a0e0;
+    --section-header-border-color: #F5F5DC; /* Added this line */
 }
 
 /**
@@ -64,7 +66,7 @@ header {
 
 .section-header {
     font-weight: bold;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--section-header-border-color); /* Updated this line */
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
@@ -92,10 +94,10 @@ details > *:not(summary):not(a){
 }
 
 details > summary {
-    list-style-type: none; 
-    position: relative;
+    list-style-type: none;
+    position: relative; 
     padding-left: 1em; 
-    cursor: pointer;
+    cursor: pointer; 
 }
 
 details > summary::-webkit-details-marker {
@@ -103,13 +105,13 @@ details > summary::-webkit-details-marker {
 }
 
 details > summary::before {
-    content: "+ ";
+    content: "+ "; 
     position: absolute;
     left: 0; 
 }
 
 details[open] > summary::before {
-    content: "- ";
+    content: "- "; 
 }
 
 /**
