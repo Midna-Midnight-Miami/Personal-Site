@@ -38,6 +38,7 @@
            </div>
            <div class="section">
                <div class="section-header">Interests</div>
+	       <span class="comment">// Click for more info! //</span><br>
                <details>
                    <summary>Games</summary>
                    <details>
