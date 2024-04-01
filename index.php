@@ -5,7 +5,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Personal Site</title>
    <link href='https://fonts.googleapis.com/css?family=Courier+Prime' rel='stylesheet'>
-   <link rel="stylesheet" href="style.css?v=999">
+   <link rel="stylesheet" href="style.css?v=what">
 </head>
 <body>
    <header>
@@ -26,11 +26,12 @@
            </div>
            <div class="section">
                <div class="section-header">Intro</div>
-               <span class="comment">// For more professional information on me, see <a href="resume.pdf">here</a>. //</span><br>
-               <span class="comment">// I have an <a href="resume.pdf">88x31</a>. //</span><br>
+               <span class="comment">// For more professional information on me, see <a href="Midna_Folwer_Resume.pdf">here</a>. //</span><br>
+               <span class="comment">// I have an <a href="88x31.png">88x31</a>. //</span><br>
                Name: Midna Fowler<br>
-               Email: Midna@Midnight.miami<br>
-               Matrix: Midna:Midnight.miami<br>
+               Email: Midna@Midnight.Miami<br>
+               Matrix: Midna:Midnight.Miami<br>
+               GitHub: Midna-Midnight-Miami<br>
                Discord: @Midna.Midnight.Miami<br>
                <span class="comment">// Always happy to chat, feel free to contact me for any reason. //</span><br>
                <span class="comment">// You may notice the site is plain, that's intentional; // <br> // I like lightweight, simple things. //</span><br>
@@ -38,7 +39,35 @@
            <div class="section">
                <div class="section-header">Interests</div>
                <span class="comment">// Click for more info! //</span><br>
-               <details>
+	       <details>
+                   <summary>Music</summary>
+                   <details>
+                       <summary>Caberet</summary>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://americanmurdersong.com/">American Murder Song</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="http://www.evelynevelyn.com/">Evelyn Evelyn</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://steampoweredgiraffe.com/">Steam Powered Giraffe</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://themechanisms.com/">The Mechanisms</a><br>
+                       &nbsp;<span class="comment">// "[She] *is* queer as cabaret, now that I start thinking about it." //</span><br>
+                       &nbsp;<span class="comment">// - Titus Hardie (Disco Elysim) //</span><br>
+                   </details>
+                    <details>
+                       <summary>Experimental</summary>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://chonnyjash.bandcamp.com/">Chonny Jash</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://thathandsomedevil.bandcamp.com/">That Handsome Devil</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://open.spotify.com/artist/4ZRsSvxF588eUkyfFRLWEn">Tub Ring</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://open.spotify.com/artist/1fa1iqlurmpjG5i5gfESuM">Vane Lily</a><br>
+		       &nbsp;<span class="comment">// The best songs always seem to be the unreleased ones... //</span><br>
+                   </details>
+                     <details>
+                       <summary>Folk</summary>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.ajjtheband.com/">AJJ</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://poormanspoison.net/home">Poor Man's Poison</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.thecranewives.com/">The Crane Wives</a><br>
+                       &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://thedreadnoughts.com/">The Dreadnoughts</a><br>
+		       &nbsp;<span class="comment">// You can tell im pretentious cuz I call it folk instead of country. //</span><br>
+                   </details>
+               </details>
+	       <details>
                    <summary>Roleplaying games</summary>
                    <details>
                        <summary>Digital</summary>
@@ -77,13 +106,14 @@
                    &nbsp;&nbsp;&nbsp;&nbsp;- Embedded Systems<br>
                    &nbsp;&nbsp;&nbsp;&nbsp;- Game Programming<br>
                    &nbsp;&nbsp;&nbsp;&nbsp;- Web Development<br>
-                   &nbsp;<span class="comment">// Non-exhaustive, these are just favorites. //</span><br>
+                   &nbsp;<span class="comment">// I have only been at programming for 2 years, but I love it. //</span><br>
                </details>
                <details>
                    <summary>Writing</summary>
                    &nbsp;&nbsp;&nbsp; - <a href="Mitryad.Midnight.Miami">Mitryad</a><br>
                    &nbsp;<span class="comment">// Creating a world of my own is a great reprieve from reality. //</span>
                </details>
+               <span class="comment">// Far from exhaustive, these are meerly highlights. //</span><br>
            </div>
            <div class="section">
                <div class="section-header">Webrings</div>
