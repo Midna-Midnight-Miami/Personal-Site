@@ -48,7 +48,7 @@
                        &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://steampoweredgiraffe.com/">Steam Powered Giraffe</a><br>
                        &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://themechanisms.com/">The Mechanisms</a><br>
                        &nbsp;<span class="comment">// "[She] *is* queer as cabaret, now that I start thinking about it." //</span><br>
-                       &nbsp;<span class="comment">// - Titus Hardie (Disco Elysim) //</span><br>
+                       &nbsp;<span class="comment">// - Titus Hardie [Disco Elysium] //</span><br>
                    </details>
                     <details>
                        <summary>Experimental</summary>
@@ -64,7 +64,8 @@
                        &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://poormanspoison.net/home">Poor Man's Poison</a><br>
                        &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.thecranewives.com/">The Crane Wives</a><br>
                        &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://thedreadnoughts.com/">The Dreadnoughts</a><br>
-		       &nbsp;<span class="comment">// You can tell im pretentious cuz I call it folk instead of country. //</span><br>
+		       &nbsp;<span class="comment">// You can tell im pretentious, //</span><br>
+                       &nbsp;<span class="comment">// 'cuz I call it folk instead of country. //</span><br>
                    </details>
                </details>
 	       <details>
