@@ -1,9 +1,9 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Personal Site</title>
+   <title>Midna's Site</title>
    <link href='https://fonts.googleapis.com/css?family=Courier+Prime' rel='stylesheet'>
    <link rel="stylesheet" href="style.css">
 </head>
@@ -18,9 +18,9 @@
        <div id="content">
            <div class="section-header">Menu</div>
            <div style="text-align-last: justify;" class="section">
-               <a href="about/">About_Me</a>
-               <a href="http://Mitryad.Midnight.Miami">Mitryad</a>
-               <a href="portfolio/">Portfolio</a>
+               <a href="https://Midna.Midnight.Miami">About_Me</a>
+               <a href="https://Mitryad.Midnight.Miami">Mitryad</a>
+               <a href="portfolio.html">Portfolio</a>
                <a href="Midna_Fowler_Resume.pdf">Resume</a>
                <a href="https://term.midnight.miami/">Terminal</a>
            </div>
@@ -124,9 +124,9 @@
            </div>
            <div class="section">
                <div class="section-header">Webrings</div>
-               <div style="text-align-last: justify;" style="text-align: justify;" >
-                   <a href="https://irisnoirproductions.com/"><--Riley</a> CW24_Ring <a href="https://bleubirddy.com/">Arantza--></a><br>
-                   <a href="https://trey.midnight.miami"><--Trey</a> Mitryadic <a href="https://avery.midnight.miami/">Avery--></a><br>
+               <div style="text-align-last: justify; text-align: justify;" >
+			   <a href="https://irisnoirproductions.com/">&lt;--Riley</a> CW24_Ring <a href="https://bleubirddy.com/">Arantza--></a><br>
+	           <a href="https://trey.midnight.miami">&lt;--Trey</a> Mitryadic <a href="https://avery.midnight.miami/">Avery--></a><br>
                </div>
                <span class="comment">// Webrings aren't popular anymore, and I think that's a shame. //</span>
            </div>
