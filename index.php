@@ -31,6 +31,7 @@
                Name: Midna Fowler<br>
                Email: Midna@Midnight.Miami<br>
                Matrix: Midna:Midnight.Miami<br>
+               <span class="comment">// Matrix is currently down, still setting up my server. //</span><br>
                GitHub: Midna-Midnight-Miami<br>
                Discord: @Midna.Midnight.Miami<br>
                <span class="comment">// Always happy to chat, feel free to contact me for any reason. //</span><br>
@@ -64,7 +65,7 @@
                        &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.warhammer.com/en-US/home">Warhammer</a><br>
                        &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://rimworldgame.com/">Rimworld</a><br>
                        &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.direwolfdigital.com/root/">Root</a><br>
-                       <span class="comment">// I like long term stratagy, and trying to predict my opponents. //</span><br>
+                       <span class="comment">// I like long term strategy, and trying to predict my opponents. //</span><br>
                    </details>
                </details>
                <details>
@@ -120,7 +121,7 @@
                    &nbsp;&nbsp;&nbsp; - <a href="Mitryad.Midnight.Miami">Mitryad</a><br>
                    &nbsp;<span class="comment">// Creating a world of my own is a great reprieve from reality. //</span>
                </details>
-               <span class="comment">// Far from exhaustive, these are meerly highlights. //</span><br>
+               <span class="comment">// Far from exhaustive, these are merely highlights. //</span><br>
            </div>
            <div class="section">
                <div class="section-header">Webrings</div>
@@ -135,3 +136,4 @@
    <script src="dark-mode.js"></script>
 </body>
 </html>
+
