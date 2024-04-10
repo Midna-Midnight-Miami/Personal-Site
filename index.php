@@ -21,21 +21,27 @@
                <a href="https://Midna.Midnight.Miami">About_Me</a>
                <a href="https://Mitryad.Midnight.Miami">Mitryad</a>
                <a href="portfolio.html">Portfolio</a>
-               <a href="Midna_Fowler_Resume.pdf">Resume</a>
+	       <a href="Midna_Fowler_Resume.pdf">Resume</a>
                <a href="https://term.midnight.miami/">Terminal</a>
            </div>
            <div class="section">
                <div class="section-header">Intro</div>
-               <span class="comment">// For more professional information on me, see <a href="Midna_Folwer_Resume.pdf">here</a>. //</span><br>
+               <span class="comment">// For more professional information on me, see <a href="Midna_Fowler_Resume.pdf">here</a>. //</span><br>
                <span class="comment">// I have an <a href="88x31.png">88x31</a>. //</span><br>
+	       Age: 18<br>
                Name: Midna Fowler<br>
+               Right Eye: Nonfunctional <br>
+               Philosophy: Pragmatic eclecticism <br>
+               <span class="comment">// You may notice the site is plain, that's intentional; // <br> // I like lightweight, simple things. //</span><br>
+           </div>
+           <div class="section">
+               <div class="section-header">Contact</div>
+               <span class="comment">// Always happy to chat, feel free to contact me for any reason. //</span><br>
                Email: Midna@Midnight.Miami<br>
                Matrix: Midna:Midnight.Miami<br>
-               <span class="comment">// Matrix is currently down, still setting up my server. //</span><br>
                GitHub: Midna-Midnight-Miami<br>
                Discord: @Midna.Midnight.Miami<br>
-               <span class="comment">// Always happy to chat, feel free to contact me for any reason. //</span><br>
-               <span class="comment">// You may notice the site is plain, that's intentional; // <br> // I like lightweight, simple things. //</span><br>
+               <span class="comment">// Matrix is currently down, still setting up my server. //</span><br>
            </div>
            <div class="section">
                <div class="section-header">Interests</div>
@@ -136,4 +142,3 @@
    <script src="dark-mode.js"></script>
 </body>
 </html>
-
