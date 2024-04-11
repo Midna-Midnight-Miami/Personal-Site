@@ -5,7 +5,15 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Midna's Site</title>
    <link href='https://fonts.googleapis.com/css?family=Courier+Prime' rel='stylesheet'>
-   <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
+    <meta name="theme-color" content="#90ee90">
+    <meta name="twitter:card" content="summary">
+    <meta name="og:site_name" content="Midna.Midnight.Miami">
+    <meta property="og:title" content="Midna">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://midna.midnight.miami">
+    <meta property="og:image" content="https://midna.midnight.miami/favicon.png">
+    <meta property="og:description" content="Midna's Site">
 </head>
 <body>
    <header>
@@ -20,7 +28,7 @@
            <div style="text-align-last: justify;" class="section">
                <a href="https://Midna.Midnight.Miami">About_Me</a>
                <a href="https://Mitryad.Midnight.Miami">Mitryad</a>
-               <a href="portfolio.html">Portfolio</a>
+               <a href="portfolio.php">Portfolio</a>
 	       <a href="Midna_Fowler_Resume.pdf">Resume</a>
                <a href="https://term.midnight.miami/">Terminal</a>
            </div>
@@ -37,10 +45,10 @@
            <div class="section">
                <div class="section-header">Contact</div>
                <span class="comment">// Always happy to chat, feel free to contact me for any reason. //</span><br>
-               Email: Midna@Midnight.Miami<br>
-               Matrix: Midna:Midnight.Miami<br>
-               GitHub: Midna-Midnight-Miami<br>
-               Discord: @Midna.Midnight.Miami<br>
+	       Email: <a href= "mailto: Midna@Midnight.Miami">Midna@Midnight.Miami</a><br>
+	       Matrix: <a href= "https://matrix.org/">Midna:Midnight.Miami</a><br>
+	       GitHub: <a href= "https://github.com/Midna-Midnight-Miami">Midna-Midnight-Miami</a><br>
+	       Discord: <a href ="https://discord.gg/GBZRn9hBBW">@Midna.Midnight.Miami</a><br>
                <span class="comment">// Matrix is currently down, still setting up my server. //</span><br>
            </div>
            <div class="section">
@@ -124,7 +132,7 @@
                </details>
                <details>
                    <summary>Writing</summary>
-                   &nbsp;&nbsp;&nbsp; - <a href="Mitryad.Midnight.Miami">Mitryad</a><br>
+                   &nbsp;&nbsp;&nbsp; - <a href="https://Mitryad.Midnight.Miami">Mitryad</a><br>
                    &nbsp;<span class="comment">// Creating a world of my own is a great reprieve from reality. //</span>
                </details>
                <span class="comment">// Far from exhaustive, these are merely highlights. //</span><br>
@@ -133,7 +141,7 @@
                <div class="section-header">Webrings</div>
                <div style="text-align-last: justify; text-align: justify;" >
 			   <a href="https://irisnoirproductions.com/">&lt;--Riley</a> CW24_Ring <a href="https://bleubirddy.com/">Arantza--></a><br>
-	           <a href="https://trey.midnight.miami">&lt;--Trey</a> Mitryadic <a href="https://avery.midnight.miami/">Avery--></a><br>
+	           <a href="https://trey.midnight.miami">&lt;--Trey</a> Mitryadic <a href="https://hermit.midnight.miami/">Hermit--></a><br>
                </div>
                <span class="comment">// Webrings aren't popular anymore, and I think that's a shame. //</span>
            </div>
@@ -142,3 +150,4 @@
    <script src="dark-mode.js"></script>
 </body>
 </html>
+
