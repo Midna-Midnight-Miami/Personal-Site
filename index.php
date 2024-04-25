@@ -22,6 +22,7 @@
            <input type="checkbox" id="dark-mode-toggle" class="dark-mode-toggle">
        </div>
    </header>
+
    <div id="wrapper">
        <div id="content">
            <div class="section-header">Menu</div>
@@ -35,7 +36,7 @@
            <div class="section">
                <div class="section-header">Intro</div>
                <span class="comment">// For more professional information on me, see <a href="Midna_Fowler_Resume.pdf">here</a>. //</span><br>
-               <span class="comment">// I have an <a href="88x31.png">88x31</a>. //</span><br>
+               <span class="comment">// I have an <a href="88x31.html">88x31</a>. //</span><br>
 	       Age: 18<br>
                Name: Midna Fowler<br>
                Right Eye: Nonfunctional <br>
@@ -62,13 +63,14 @@
                            <summary>Digital</summary>
                            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://baldursgate3.game/">Baldurs Gate</a><br>
                            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://discoelysium.com/">Disco Elysium</a><br>
-                       </details>
-                       <details>
+		       </details>
+		       <details>
                            <summary>Table-Top</summary>
                            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://dnd.wizards.com/">Dungeons and Dragons</a><br>
                            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://www.sjgames.com/gurps/">GURPS</a><br>
                            &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://welcometowarhammer.com/necromunda/">Necromunda</a><br>
                            <span class="comment">// Necromunda isn't a ttrpg, but I play it like one. //</span><br>
+		       </details>
                        </details>
 		       <span class="comment">// I like immersing myself in words of other's creation, // <br>
                            &nbsp;&nbsp;&nbsp;// and telling stories in worlds of mine. //</span><br>
@@ -110,6 +112,7 @@
                        &nbsp;<span class="comment">// You can tell im pretentious, //</span><br>
                        &nbsp;<span class="comment">// 'cuz I call it folk instead of country. //</span><br>
                    </details>
+                   </details>
                </details>
                <details>
                <summary>Software Development</summary>
@@ -136,7 +139,7 @@
                    &nbsp;<span class="comment">// Creating a world of my own is a great reprieve from reality. //</span>
                </details>
                <span class="comment">// Far from exhaustive, these are merely highlights. //</span><br>
-           </div>
+	   </div>
            <div class="section">
                <div class="section-header">Webrings</div>
                <div style="text-align-last: justify; text-align: justify;" >
